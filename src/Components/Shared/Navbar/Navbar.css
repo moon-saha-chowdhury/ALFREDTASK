@@ -1,0 +1,29 @@
+.log-button{
+    background-color: white;
+    border:none;
+    border-radius: 15px;
+    width: 80%;
+    color:#02023f;
+    box-shadow: 2px 5px #92919156;
+
+}
+.get-button{
+    background-color: #47fa11;
+    border:none;
+    border-radius: 15px;
+    width: 80%;
+    box-shadow: 2px 5px #92919156;
+
+}
+.about-title{
+    margin-left: 100px;
+}
+
+.item:hover{
+    color: #15a6e9;
+    cursor: pointer;
+}
+.item{
+    color: gray;
+
+}

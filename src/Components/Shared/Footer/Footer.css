@@ -1,0 +1,8 @@
+p:hover{
+ color: #15a6e9;
+ cursor: pointer;
+}
+
+p{
+    color: gray;
+}
